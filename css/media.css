@@ -1,0 +1,466 @@
+@media (max-width: 1670.98px) {
+  .locations .slider-location {
+    margin-left: 0;
+    max-width: 92%;
+  }
+}
+
+@media (max-width: 1549.98px) {
+  .container {
+    max-width: 1200px;
+  }
+
+  .locations .slider-location {
+    margin-left: 0;
+    max-width: 90%;
+  }
+}
+
+@media (max-width: 1399.98px) {
+  .container {
+    max-width: 90%;
+  }
+
+  .logos,
+  .navbar-nav {
+    gap: 40px;
+  }
+
+  header .navbar-brand {
+    height: 65px;
+  }
+
+  .hero-section,
+  .hero-section .text-box,
+  .hero-section .slick-slider .slick-list,
+  .hero-section .slick-slider {
+    min-height: 700px;
+  }
+
+  .hero-section h1 {
+    padding-top: 280px;
+  }
+
+  .font-64 {
+    font-size: 54px;
+  }
+
+  .hero-section .inner-box {
+    width: 55%;
+  }
+
+  .hero-section h2 {
+    padding-top: 250px;
+  }
+
+  .about-section .container-img-about {
+    width: 496px;
+  }
+
+  .font-46 {
+    font-size: 40px;
+  }
+
+  .locations .slider-location {
+    max-width: 95%;
+  }
+
+  .py-120 {
+    padding: 100px 0;
+  }
+
+  .font-96 {
+    font-size: 86px;
+  }
+
+  .font-32 {
+    font-size: 30px;
+  }
+
+}
+
+@media (max-width: 1299.98px) {
+  .font-64 {
+    font-size: 50px;
+  }
+
+  .font-20 {
+    font-size: 18px;
+  }
+
+  header .navbar-brand {
+    height: 60px;
+  }
+
+  .new-card h6,
+  .font-16 {
+    font-size: 14px;
+  }
+
+  .container-img-about img {
+    object-fit: cover;
+  }
+
+  .py-100 {
+    padding: 80px 0;
+  }
+
+  .font-96 {
+    font-size: 76px;
+  }
+
+  .statistics .card-statistic {
+    min-height: 350px;
+  }
+
+  .work-card .text-work {
+    padding: 0;
+  }
+
+  .w50 {
+    width: 100%;
+  }
+
+  .mb-58,
+  .mb-60 {
+    margin-bottom: 50px;
+  }
+
+  .font-46 {
+    font-size: 35px;
+  }
+
+  .statistics h2 {
+    width: 40%;
+  }
+
+  .partners .logo-img {
+    max-height: 80px;
+  }
+
+  .tag.font-14 {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 1199.98px) {
+
+  .logos,
+  .navbar-nav {
+    gap: 24px;
+  }
+
+  .font-64 {
+    font-size: 45px;
+  }
+
+  .hero-section .inner-box {
+    width: 60%;
+  }
+
+  .text-section {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 24px;
+  }
+
+
+  .img-about,
+  .about-section .container-img-about {
+    margin: auto;
+  }
+
+  .mb-32 {
+    margin-bottom: 24px;
+  }
+
+  .about-section .container-img-about {
+    width: 400px;
+    height: auto;
+  }
+
+  [dir='rtl'] .slick-next,
+  [dir='rtl'] .slick-prev {
+    top: -80px;
+  }
+
+  .mb-58,
+  .mb-60 {
+    margin-bottom: 40px;
+  }
+
+  .py-120 {
+    padding: 80px 0;
+  }
+
+  .font-46 {
+    font-size: 30px;
+  }
+
+  .font-96 {
+    font-size: 66px;
+  }
+
+  .font-32 {
+    font-size: 24px;
+  }
+
+  .py-58 {
+    padding-top: 48px;
+    padding-bottom: 48px;
+  }
+
+  .logos {
+    gap: 30px 50px;
+    justify-content: center !important;
+  }
+
+  .links {
+    gap: 40px;
+  }
+
+  .logo-social {
+    gap: 80px;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .btn-dark {
+    position: absolute !important;
+    top: 60px;
+    left: 70px;
+    background-color: transparent;
+    height: auto;
+    width: auto;
+  }
+
+  .btn-dark:is(:focus, :hover) {
+    background-color: transparent;
+  }
+
+  .hero-section .inner-box {
+    width: 80%;
+  }
+
+  [dir='rtl'] .slick-next,
+  [dir='rtl'] .slick-prev {
+    top: -70px;
+  }
+
+  .new-card {
+    width: calc((100% - 24px) / 2);
+  }
+}
+
+@media (max-width: 767.98px) {
+  .font-96 {
+    font-size: 50px;
+  }
+
+  .new-card {
+    width: 70%;
+    margin: auto;
+  }
+
+  .statistics .card-statistic .font-20 {
+    font-size: 16px;
+  }
+
+  .font-96 {
+    font-size: 40px;
+  }
+}
+
+
+@media (max-width: 575.98px) {
+
+  .new-card {
+    width: 100%;
+  }
+
+  .hero-section,
+  .hero-section .text-box,
+  .hero-section .slick-slider .slick-list,
+  .hero-section .slick-slider {
+    min-height: 900px;
+  }
+
+  header .navbar-brand {
+    height: 55px;
+  }
+
+  .font-64 {
+    font-size: 40px;
+  }
+
+  .hero-section .inner-box {
+    width: 100%;
+  }
+
+  .hero-section h2 {
+    padding-top: 100px;
+  }
+
+  .hero-section .font-20 {
+    font-size: 16px;
+  }
+
+  .mb-32 {
+    margin-bottom: 32px;
+  }
+
+  .py-120,
+  .py-100 {
+    padding: 70px 0;
+  }
+
+  .text-section {
+    width: 100%;
+    margin-bottom: 0;
+  }
+
+  .works h2,
+  .about-section h2 {
+    font-size: 40px;
+  }
+
+  .about-section .font-20 {
+    font-size: 20px;
+  }
+
+  .container-img-about {
+    display: none;
+  }
+
+  .slider-location .slick-list {
+    padding: 0 0 0 100px !important;
+  }
+
+  .locations h2 {
+    width: 50%;
+  }
+
+  [dir='rtl'] .slick-next {
+    left: 40px;
+  }
+
+  [dir='rtl'] .slick-prev {
+    left: 90px;
+  }
+
+  .locations h2 {
+    font-size: 32px;
+  }
+
+  .locations .font-16 {
+    font-size: 16px;
+  }
+
+  .locations .font-20 {
+    font-size: 20px;
+  }
+
+  .statistics h2 {
+    width: 100%;
+  }
+
+  .statistics .card-statistic {
+    width: 100%;
+  }
+
+  .text-statistic {
+    justify-content: end;
+  }
+
+  .card-statistic .title {
+    flex-direction: column-reverse;
+    gap: 90px;
+    margin-bottom: 24px;
+  }
+
+  .card-statistic .title p {
+    line-height: 1;
+  }
+
+  .statistics .card-statistic {
+    min-height: 505px;
+  }
+
+  .text-statistic {
+    padding: 70px 40px;
+  }
+
+  .font-96 {
+    font-size: 96px;
+  }
+
+  .works .font-20,
+  .statistics .card-statistic .font-20 {
+    text-align: center;
+    font-size: 20px;
+  }
+
+  .works h4 {
+    width: 80%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .works h4,
+  .statistics .card-statistic .font-32 {
+    font-size: 32px;
+  }
+
+  .more span {
+    display: none;
+  }
+
+  .tag.font-14 {
+    font-size: 14px;
+  }
+
+  .tags {
+    gap: 12px;
+    justify-content: center;
+  }
+
+  .number,
+  .works .work-img {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .btn-more {
+    display: flex;
+  }
+
+  .partners .logo-img {
+    max-height: fit-content;
+  }
+
+  .links .list-unstyled {
+    width: 48%;
+  }
+
+  .links {
+    gap: 15px;
+  }
+
+  .logo-footer {
+    display: none;
+  }
+
+  footer {
+    padding: 70px 0;
+  }
+
+  .number span {
+    font-size: 32px;
+  }
+
+  .number .font-48 {
+    font-size: 48px;
+  }
+}

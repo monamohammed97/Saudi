@@ -1,0 +1,40 @@
+.dark .hero-section .text-box {
+  background-color: #00000099;
+}
+
+.dark .bg-darkblack {
+  background: #081923;
+}
+
+.dark .bg-darkLight {
+  background: #0F202A;
+}
+
+.dark .img-dark {
+  display: block;
+}
+
+.dark .img-light {
+  display: none;
+}
+
+.dark .bg-darkLight .title-color,
+.dark .works .work-img h6,
+.dark .works .number span,
+.dark .bg-darkblack h4,
+.dark .bg-darkblack h2,
+.dark .bg-darkLight h2,
+.dark .bg-darkblack p,
+.dark .bg-darkLight p {
+  color: var(--white);
+}
+
+.dark .works .number,
+.dark .works .work-img {
+  background-color: #14242E;
+}
+
+.dark .tag {
+  background: #1B2B35;
+}
+
