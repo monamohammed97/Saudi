@@ -222,7 +222,7 @@ a {
 }
 
 .locations .bg-image {
-  height: 573px;
+  min-height: 573px;
   z-index: -1;
   filter: blur(6px);
 }
