@@ -507,9 +507,9 @@
   }
 }
 
-@media (max-width: 376.98px) {
+@media (max-width: 380.98px) {
   .slider-location .slick-list {
-    padding: 0 0 0 60px !important;
+    padding: 0 0 0 40px !important;
   }
 
   .locations h2 {
@@ -539,4 +539,19 @@
     font-size: 32px;
   }
 
+  .locations .font-20 {
+    font-size: 18px;
+  }
+
+  .locations .font-16 {
+    font-size: 14px;
+  }
+
+  .statistics .card-statistic {
+    min-height: 475px;
+  }
+
+  .font-96 {
+    font-size: 76px;
+  }
 }
